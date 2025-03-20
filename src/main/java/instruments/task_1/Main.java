@@ -1,4 +1,4 @@
-package org.example;
+package instruments.task_1;
 
 import static java.lang.Math.abs;
 
