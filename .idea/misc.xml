@@ -5,12 +5,16 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson1/Lesson_4/pom.xml" />
+        <option value="$PROJECT_DIR$/Task2/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_5/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Lesson1/pom.xml" />
         <option value="$PROJECT_DIR$/Lesson2/pom.xml" />
+        <option value="$PROJECT_DIR$/Task2/pom.xml" />
       </set>
     </option>
   </component>
